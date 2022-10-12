@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  background-image: linear-gradient(to bottom right, #331832, #8d99ae);
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.funtionality, h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1, h2, h3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(224, 209, 209);
+}
